@@ -24,7 +24,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
 6. [MVI Token Mining Software](https://github.com/mining-visualizer/MVis-tokenminer)  / [Mike.rs Token Mining Software](https://github.com/azlehria/0xbitcoin-gpuminer)
 
-      Token Mining Software for OpenCL supporting solo or pool mining 
+      Token Mining Software supporting solo or pool mining 
 
 7. [0xBTC Solidity Toolkit](https://github.com/0xbitcoin/solidity-tools)
 

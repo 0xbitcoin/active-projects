@@ -20,4 +20,8 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
         
 5. 0xBitcoin-Ether Interface 
 
-        A smart contract which stores Ether and 0xBitcoin and which uses a Price Oracle to allow other Ethereum bots and users to call a method which accepts Ether and sends 0xBTC and to call another method which accepts 0xBTC and sends Ether.  Uses ApproveAndCall method of 0xBTC
+        A smart contract which stores Ether and 0xBitcoin and which uses a Price Oracle to allow other Ethereum bots and users to call a method which accepts Ether and sends 0xBTC and to call another method which accepts 0xBTC and sends Ether.  Uses ApproveAndCall method of 0xBTC.  A dapp frontend will be built similar to shapeshift.
+
+6. [MVI Token Mining Software](https://github.com/mining-visualizer/MVis-tokenminer)
+
+        Token Mining Software for OpenCL supporting solo or pool mining 

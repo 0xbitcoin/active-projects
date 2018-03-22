@@ -2,19 +2,19 @@
 
 Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
-1.  (Lava Wallet)[https://github.com/admazzola/lava-wallet]
+1.  [Lava Wallet](https://github.com/admazzola/lava-wallet)
   
         Deposit tokens in this smart contract in order to allow other users to withdraw them with offchain digital signatures
 
-2. (Token Mining Pool)[https://github.com/0xbitcoin/tokenpool]
+2. [Token Mining Pool](https://github.com/0xbitcoin/tokenpool)
 
         A pool for mining ERC20 tokens.  Feel free to write more tests and add new features.
 
-3. (EIP 918 - Mined Token Standard)[https://github.com/ethereum/EIPs/pull/918]
+3. [EIP 918 - Mined Token Standard](https://github.com/ethereum/EIPs/pull/918)
 
         A Standard interface for Proof Of Work Mined Tokens
 
-4. (Ethereum Heroes)[https://github.com/admazzola/ethereum-heroes]
+4. [Ethereum Heroes](https://github.com/admazzola/ethereum-heroes)
 
         Avatars for Token Mining Pools which are bought and sold with 0xBitcoin 
         

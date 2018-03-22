@@ -25,3 +25,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 6. [MVI Token Mining Software](https://github.com/mining-visualizer/MVis-tokenminer)
 
       Token Mining Software for OpenCL supporting solo or pool mining 
+
+7. [0xBTC Solidity Toolkit](https://github.com/0xbitcoin/solidity-tools)
+
+      A set of documented libraries and methods that allow developers to more easily build dapps which incorporate 0xBTC 

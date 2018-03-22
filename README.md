@@ -1,4 +1,4 @@
-# Active Projects
+# 0xBitcoin Active Projects
 
 Active projects for the 0xBitcoin Community. Please add more with an Issue.
 

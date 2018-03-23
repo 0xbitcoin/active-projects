@@ -31,6 +31,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
       A set of documented libraries and methods that allow developers to more easily build dapps which incorporate 0xBTC 
 
 8.  0xBTC.io Website   (Concept)
+
     A simple splash page for 0xBitcoin 
     
 9. [Token Mining Pool](https://github.com/0xbitcoin/tokenpool)  (Complete)

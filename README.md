@@ -36,3 +36,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 9. [Token Mining Pool](https://github.com/0xbitcoin/tokenpool)
 
       A pool for mining ERC20 tokens.  Feel free to write more tests and add new features.
+      
+10. [Desktop and Mobile Wallet]
+
+      Wallet for 0xBitcoin

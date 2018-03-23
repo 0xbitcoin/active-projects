@@ -6,9 +6,9 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
   
       Deposit tokens in this smart contract in order to allow other users to withdraw them with offchain digital signatures
 
-2. [Token Mining Pool](https://github.com/0xbitcoin/tokenpool)
-
-      A pool for mining ERC20 tokens.  Feel free to write more tests and add new features.
+2. [Token Quarry](https://github.com/0xbitcoin/token-quarry)
+  
+      Deposit tokens in this smart contract in order to allow users to easily mine for them using Proof of Work 
 
 3. [EIP 918 - Mined Token Standard](https://github.com/ethereum/EIPs/pull/918)
 
@@ -32,3 +32,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
 8.  0xBTC.io Website  
     A simple splash page for 0xBitcoin 
+    
+9. [Token Mining Pool](https://github.com/0xbitcoin/tokenpool)
+
+      A pool for mining ERC20 tokens.  Feel free to write more tests and add new features.

@@ -38,6 +38,11 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
       A pool for mining ERC20 tokens.  Feel free to write more tests and add new features.
       
-10. [Desktop and Mobile Wallet]  (Concept)
+10. [Micro-Dex]  (Concept)
 
-      Wallet for 0xBitcoin
+      A simple smart contract that allows for setting up buy/sell orders between 0xBTC and Ether.  Takers fulfill Makers orders.
+      
+      
+11. [0xBTC Block Explorer]  (Concept)
+
+      A dedicated block explorer and API engine for 0xBitcoin

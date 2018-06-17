@@ -2,7 +2,7 @@
 
 Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
-1.  [Lava Wallet](https://github.com/admazzola/lava-wallet)  (Active) + [LavaWallet Software](https://github.com/lavawallet
+1.  [Lava Wallet](https://github.com/admazzola/lava-wallet)  (Active) + [LavaWallet Software](https://github.com/lavawallet)
   
       Deposit tokens in this smart contract in order to allow other users to withdraw them with offchain digital signatures
 

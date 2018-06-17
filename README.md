@@ -2,7 +2,7 @@
 
 Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
-1.  [Lava Wallet](https://github.com/admazzola/lava-wallet)  (Concept)
+1.  [Lava Wallet](https://github.com/admazzola/lava-wallet)  (Active) + [LavaWallet Software](https://github.com/lavawallet
   
       Deposit tokens in this smart contract in order to allow other users to withdraw them with offchain digital signatures
 
@@ -43,6 +43,6 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
       A simple smart contract that allows for setting up buy/sell orders between 0xBTC and Ether.  Takers fulfill Makers orders.
       
       
-11. [0xBTC Block Explorer]  (Concept)
+11. [0xBTC Block Explorer](http://explorer.0xbtc.io)  (active)
 
       A dedicated block explorer and API engine for 0xBitcoin

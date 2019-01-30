@@ -28,7 +28,7 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 
 7. [0xBTC Solidity Toolkit](https://github.com/0xbitcoin/solidity-tools)  (Concept)
 
-      A set of documented libraries and methods that allow developers to more easily build dapps which incorporate 0xBTC 
+      A set of documented libraries and methods that allow developers to more easily build apps which incorporate 0xBTC 
 
 8.  0xBTC.io Website   (Concept)
 
